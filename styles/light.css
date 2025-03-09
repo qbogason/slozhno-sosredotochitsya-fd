@@ -35,7 +35,7 @@
     --title-color: #353430;
   }
 
-  .theme-light .header__pseudo {
+  .theme-auto .header__pseudo {
     display: none;
   }
 }
